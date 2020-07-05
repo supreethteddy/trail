@@ -1,0 +1,16 @@
+body{background-color: antiquewhite;}
+h1{color: salmon ;
+    text-align: center;
+}
+.square{height: 100px;
+width: 100px;
+background-color: blueviolet;
+   
+
+}
+img{max-width: 100%;
+height: auto;
+    padding: 10px;}
+
+.image{border-radius: ;
+border: 5px solid red;}
